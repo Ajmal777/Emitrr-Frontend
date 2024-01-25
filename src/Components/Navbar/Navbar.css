@@ -1,0 +1,17 @@
+.navbar-container{
+    padding: 1rem 5rem;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    box-sizing: border-box;
+    margin-bottom: 2rem;
+}
+
+.nav-brand{
+    font-size: 3.5rem;
+}
+.links > *{
+    font-size: 1.25rem;
+}
+.links > *:hover {
+    color: #b792dc;
+    transition: 0.3s ease;
+}
